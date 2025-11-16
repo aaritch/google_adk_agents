@@ -10,7 +10,7 @@ When tasks must run in a guaranteed, specific order, use a `SequentialAgent`. Th
 
 ## Example Architecture — Blog Post Creation Pipeline
 
-- ![Blog Post Pipeline Image]("images/sequential_agent.png")
+![Blog Post Pipeline Image](images/sequential_agent.png)
 
 This pipeline demonstrates a common sequential use case with three specialized agents:
 
